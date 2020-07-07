@@ -14,11 +14,11 @@ In brute force attack method,tool try all combination of password to provide acc
 
 ```
 git clone https://github.com/cyb3rt3ch/fb-brute
-
+```
 cd fb-brute
-
+```
 chmod +x fb-brute
-
+```
 python2 fb-brute.py
 
 ```
