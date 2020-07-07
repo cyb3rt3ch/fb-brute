@@ -19,7 +19,7 @@ git clone https://github.com/cyb3rt3ch/fb-brute
 cd fb-brute
 ```
 ```
-chmod +x fb-brute
+chmod +x fb-brute.py
 ```
 ```
 python2 fb-brute.py
