@@ -28,3 +28,5 @@ chmod +x fb-brute.py
 python2 fb-brute.py
 
 ```
+## Donate Us:
+   https://bit.ly/DonaTeUs
