@@ -23,6 +23,9 @@ git clone https://github.com/cyb3rt3ch/fb-brute
 cd fb-brute
 ```
 ```
+pip2 install mechanize
+```
+```
 chmod +x fb-brute.py
 ```
 ```
