@@ -23,6 +23,9 @@ git clone https://github.com/cyb3rt3ch/fb-brute
 cd fb-brute
 ```
 ```
+pip3 install requests bs4
+```
+```
 pip2 install mechanize
 ```
 ```
